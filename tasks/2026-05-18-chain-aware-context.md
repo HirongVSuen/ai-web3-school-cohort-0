@@ -39,3 +39,12 @@
 ## 2026-05-19 进展
 
 今日计划：阅读 Chain-aware Context 全部知识节点 + 完成最小实践。
+
+## 2026-05-21 进展
+
+今日回顾：已重新快速浏览全部知识节点作为 Web3 Tool Use 前置。
+建议在编写 Rig Agent Tool 返回值时应用 Chain-aware Context 规范：
+- 包含 chain id, block number, method, result, 读取时间
+- 区分只读/写入工具，写入需 simulation + 用户确认
+
+→ 过渡到新章节：Web3 Tool Use（创建新任务）
